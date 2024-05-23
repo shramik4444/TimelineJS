@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.imgstyle {
+  height: 250px;
+  width: 250px;
+}
+.iconstyle{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
